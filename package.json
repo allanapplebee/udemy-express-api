@@ -1,0 +1,26 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "full stack react / node app with stripe payments",
+  "main": "index.js",
+  "engines": {
+    "node": "9.9.0",
+    "npm": "5.6.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/allanapplebee/udemy-react-node-app.git"
+  },
+  "author": "Allan Applebee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/allanapplebee/udemy-react-node-app/issues"
+  },
+  "homepage": "https://github.com/allanapplebee/udemy-react-node-app#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
